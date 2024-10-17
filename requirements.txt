@@ -1,0 +1,8 @@
+jsonlines
+openai
+SPARQLWrapper
+tqdm
+argparse
+datasets==2.14.6
+rank_bm25
+sentence_transformers==3.0.1
