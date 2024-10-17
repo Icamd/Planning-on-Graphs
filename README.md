@@ -1,6 +1,8 @@
 # Planning on Graphs (PoG)
 Implementation of "Planning on Graphs: Enhancing Large Language Model Reasoning with Embedding-Based Pathfinding Algorithms"
 
+<img src="resources/fig.png" width = "800" />
+
 Planning on Graphs (PoG) enhances the reasoning capabilities of large language models (LLMs) on knowledge graphs (KGs) through the integration of pathfinding algorithms. Our approach addresses the limitations of previous methods that required extensive fine-tuning of LLMs or demanded frequent interactions between the LLM and the KG. By introducing a planning-searching-reasoning framework, we leverage a semantic embedding model to facilitate more efficient interactions between the LLM and the KG. Additionally, we integrate semantic similarity as a cost metric within pathfinding algorithms, effectively combining these algorithms with KG reasoning.
 ## Requirements
 To install the required dependencies, run:
